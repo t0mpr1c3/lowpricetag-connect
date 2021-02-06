@@ -115,4 +115,4 @@ T 1600 1030 3 7 0 0 0 0 1
 numslots=0
 B 200 0 900 1200 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 T 1400 320 3 7 0 0 0 0 1
-footprint=Harwin-M503610542
+footprint=Cortex_JTAG_SWD_header_SMD_reflow
