@@ -1,0 +1,69 @@
+T 0 0 0 0 0 0 0 0 0 0
+author=Tom Price
+T 0 0 0 0 0 0 0 0 0 0
+use-license=unlimited
+T 0 0 0 0 0 0 0 0 0 0
+dist-license=GPL2
+T 0 0 0 0 0 0 0 0 0 0
+description=Samtec SIBF-05-F-S-AD compression connector
+v 20110115 1
+P 0 600 200 600 3 0 0
+{
+T 100 615 5 7 1 1 0 3 1
+pinnumber=1
+T 215 600 3 5 1 1 0 1 1
+pinlabel=1
+T 100 615 5 7 0 1 0 3 1
+pinseq=1
+T 100 615 5 7 0 1 0 3 1
+pintype=pas
+}
+P 0 500 200 500 3 0 0
+{
+T 100 515 5 7 1 1 0 3 1
+pinnumber=2
+T 215 500 3 5 1 1 0 1 1
+pinlabel=2
+T 100 515 5 7 0 1 0 3 1
+pinseq=2
+T 100 515 5 7 0 1 0 3 1
+pintype=pas
+}
+P 0 400 200 400 3 0 0
+{
+T 100 415 5 7 1 1 0 3 1
+pinnumber=3
+T 215 400 3 5 1 1 0 1 1
+pinlabel=3
+T 100 415 5 7 0 1 0 3 1
+pinseq=3
+T 100 415 5 7 0 1 0 3 1
+pintype=pas
+}
+P 0 300 200 300 3 0 0
+{
+T 100 315 5 7 1 1 0 3 1
+pinnumber=4
+T 215 300 3 5 1 1 0 1 1
+pinlabel=4
+T 100 315 5 7 0 1 0 3 1
+pinseq=4
+T 100 315 5 7 0 1 0 3 1
+pintype=pas
+}
+P 0 200 200 200 3 0 0
+{
+T 100 215 5 7 1 1 0 3 1
+pinnumber=5
+T 215 200 3 5 1 1 0 1 1
+pinlabel=5
+T 100 215 5 7 0 1 0 3 1
+pinseq=5
+T 100 215 5 7 0 1 0 3 1
+pintype=pas
+}
+T 500 830 3 7 0 0 0 0 1
+numslots=0
+B 200 0 200 800 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T -100 320 3 7 0 0 0 0 1
+footprint=Samtec-SIBF-05-F-S-AD
