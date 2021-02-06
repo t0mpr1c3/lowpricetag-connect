@@ -2,7 +2,7 @@
 
 ARM Cortex JTAG/SWD compression connector. Intended as an open source alternative to Tag Connect. 
 
-##BOM
+## BOM
 - J1: Amphenol 20021511-00010T4LF
 - J2: Samtec SIBF-05-F-S-AD
 - J3: SIBF-05-F-S-AB
