@@ -5,7 +5,7 @@ use-license=unlimited
 T 0 0 0 0 0 0 0 0 0
 dist-license=GPL2
 T 0 0 0 0 0 0 0 0 0
-description=ARM Cortex JTAG/SWD header compatible with Harwin M50-3610542 and programmable with custom compression header
+description=ARM Cortex JTAG/SWD header compatible with Samtec FTSH-105-XX-X-DV headers and programmable with custom compression header
 v 20110115 1
 P 0 1000 200 1000 3 0 0
 {
