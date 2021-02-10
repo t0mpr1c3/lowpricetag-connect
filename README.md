@@ -3,7 +3,7 @@
 ARM Cortex JTAG/SWD compression connector. Intended as an open source alternative to Tag Connect.
 
 ### PCB
-See gEDA file DC01.pcb in folder DC01 associated subfolders.
+See gEDA file DC01.pcb in folder DC01 associated subfolders. Boards can be ordered directly from [OSH Park](https://oshpark.com/shared_projects/uAXMI0N7).
 
 ### BOM
 - J1: Amphenol 20021511-00010T4LF
